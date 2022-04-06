@@ -1,0 +1,14 @@
+const string = "Car";
+const myNumber= 234;
+const obj = {};
+const bool = false;
+const nullValue = null;
+let  notDefined;
+const mySymbol = Symbol("@");
+console.log(typeof string);
+console.log(typeof myNumber);
+console.log(typeof obj);
+console.log(typeof bool);
+console.log(typeof nullValue);
+console.log(typeof notDefined);
+console.log(typeof mySymbol);
