@@ -8,4 +8,4 @@ let c = describeCountry('France', ' 80 milion', 'Paris');
 
 console.log(a);
 console.log(b);
-taly
+console.log(c);
